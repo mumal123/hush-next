@@ -225,12 +225,6 @@ Every AI-generated result is saved to Supabase immediately. This means the datab
 
 ---
 
-## 👩‍💻 Author
-
-Built by [Your Name] — 3rd year CS student building at the intersection of AI and beauty tech.
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
 
 ---
 
