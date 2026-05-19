@@ -4,7 +4,7 @@
 
 Hush is an AI-powered beauty dupe finder that helps users discover affordable alternatives to high-end cosmetics and fragrances. Built with a focus on the Indian beauty market.
 
-**Live Demo:** [hush-coral-zeta.vercel.app](https://hush-coral-zeta.vercel.app)
+**Live Demo:** [hush.vercel.app](https://hush-next.vercel.app/)
 
 ---
 
